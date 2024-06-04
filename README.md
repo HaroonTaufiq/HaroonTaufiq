@@ -56,5 +56,5 @@ Thank you for looking at my profile. Please get in touch with me if you're inter
 ## 📫 Contact
 
 - Email: itx.haroon1@gmail.com
-- LinkedIn: [haroon-taufiq](https://www.linkedin.com/in/haroon-taufiq/)
+- LinkedIn: [Haroon-Taufiq](https://www.linkedin.com/in/haroon-taufiq/)
 - GitHub: [HaroonTaufiq](https://github.com/HaroonTaufiq)

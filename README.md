@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-I am a software developer with over an year of experience in developing web applications. I am passionate about creating clean and efficient code that delivers a great user experience. I am always looking for new challenges and enjoy working with a team to find innovative solutions to complex problems.
+Computer Science graduate specializing in Machine Learning and AI, backed by full-stack development experience. Self-driven learner with hands-on expertise in Python ML frameworks, computer vision, and generative AI. Demonstrated through practical projects in facial recognition and NLP chatbots. Passionate about bridging traditional software development with cutting-edge ML solutions.
 
 ### Skills
 
